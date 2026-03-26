@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science studnet with a strong interest in software development and problem solving. Experienced<br>with C++, Java, and Python, and currently building skills in machine learning, algorithms, and system design.<br>Seeking an internship opportunity to contribute to real-world projects while learning from experienced developers.
+Computer Science student with a strong interest in software development and problem solving. Experienced<br>with C++, Java, and Python, and currently building skills in machine learning, algorithms, and system design.<br>Seeking an internship opportunity to contribute to real-world projects while learning from experienced developers.
 
 
 ## 🌐 Socials:
