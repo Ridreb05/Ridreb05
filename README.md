@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student. Experienced<br>with C++, Java, and Python, and currently building skills in machine learning, algorithms, and system design.<br>
+Computer Science student. Experienced with C++, Java, and Python, and currently building skills in machine learning, algorithms, and system design.<br>
 
 
 ## 🌐 Socials:
