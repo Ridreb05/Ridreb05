@@ -1,6 +1,5 @@
 # 💫 About Me:
-Computer Science student. Currently building skills in machine learning, algorithms, and system design.<br>
-
+Hey 👋 I'm a student dev studying CS. I have built full-stack apps and messed around with AI&ML, but lately I've been diving into Web3, crypto, and blockchain. <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ridreb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debanik-das) 
