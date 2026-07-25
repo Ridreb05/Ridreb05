@@ -1,9 +1,63 @@
-##  About Me:
-Hey 👋 I'm a student dev studying CS. I have built full-stack apps and messed around with AI&ML, but lately into Web3, crypto, and blockchain. <br>
-<!--
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ridreb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debanik-das) 
- 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
 
+# Debanik Das
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=520&height=45&lines=CS+Student+%26+Full-Stack+Developer;Web3+%7C+Crypto+%7C+Blockchain;AI%2FML+Explorer;Building+Things+That+Solve+Real+Problems" />
+
+</div>
+
+## About Me
+
+Hey 👋 I'm a CS student and developer. I've built full-stack apps and experimented with AI/ML, and lately I'm deep into Web3, crypto, and blockchain — building decentralized tools that put trust and ownership back in users' hands.
+
+I care about shipping things that actually work and feel considered, from the smart contract up to the interface.
+
+**Currently:**
+
+- Building at [@indiminds-tech](https://github.com/indiminds-tech)
+- Exploring decentralized apps, on-chain governance, and DeFi
+- Experimenting with RL and AI agents
+- Sharing what I learn along the way
+
+## Tech Stack
+
+```js
+const debanik = {
+    role: "CS Student & Full-Stack Developer",
+    languages: ["TypeScript", "JavaScript", "Python", "Solidity"],
+    frontend: ["React", "Next.js"],
+    backend: {
+        runtime: ["Node.js"],
+        web3: ["Solidity", "Hardhat", "ethers.js"],
+        databases: ["MongoDB", "PostgreSQL", "Supabase"],
+    },
+    exploring: ["AI/ML", "Reinforcement Learning", "DeFi"],
+    currentFocus: "Web3, crypto & blockchain",
+};
+```
+
+## Featured Projects
+
+- **[TerraLend](https://github.com/Ridreb05/TerraLend)** — Decentralized crowdlending platform for climate & impact projects.
+- **[prismforge](https://github.com/Ridreb05/prismforge)** — AI-native Web3 studio that turns any image into a provably unique, on-chain collectible.
+- **[polis](https://github.com/Ridreb05/polis)** — Decentralized governance platform for DAOs, councils, and communities with verifiable, tamper-proof voting.
+- **[project-amaze](https://github.com/Ridreb05/project-amaze)** — RL environment where an LLM agent learns spacecraft rendezvous and docking against a CWH physics simulation.
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com/?user=Ridreb05&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=A371F7&currStreakLabel=A371F7&sideNums=58A6FF&sideLabels=C9D1D9&dates=8B949E" />&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridreb05&layout=compact&langs_count=6&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+
+</div>
+
+## Connect
+
+<div align="center">
+
+<a href="https://debanik.com"><img src="https://skillicons.dev/icons?i=devto" width="48" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/debanik-das"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>&nbsp;&nbsp;
+<a href="mailto:ridreb05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
+
+</div>
