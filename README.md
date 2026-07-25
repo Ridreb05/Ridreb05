@@ -57,13 +57,13 @@ const debanik = {
 <div align="center">
 
 <img height="165" src="https://streak-stats.demolab.com/?user=Ridreb05&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=A371F7&currStreakLabel=A371F7&sideNums=58A6FF&sideLabels=C9D1D9&dates=8B949E" />&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridreb05&layout=compact&langs_count=6&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+
 
 </div>
 
 ## Connect
 
-<div align="center">
+<div align="left">
 
 <a href="https://debanik.com"><img src="https://skillicons.dev/icons?i=devto" width="48" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/debanik-das"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>&nbsp;&nbsp;
