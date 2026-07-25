@@ -67,6 +67,6 @@ const debanik = {
 
 <a href="https://debanik.com"><img src="https://skillicons.dev/icons?i=devto" width="48" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/debanik-das"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>&nbsp;&nbsp;
-<a href="mailto:ridreb05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
+<a href="mailto:debanik005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
 
 </div>
