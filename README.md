@@ -1,5 +1,5 @@
 <div align="center">
-<imgsrc="https://raw.githubusercontent.com/Ridreb05/Ridreb05/main/assets/room.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Ridreb05/Ridreb05/main/assets/room.gif" width="100%" />
     
 # Debanik Das
 
