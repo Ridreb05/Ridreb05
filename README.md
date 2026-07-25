@@ -1,11 +1,19 @@
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
 <img src="https://raw.githubusercontent.com/Ridreb05/Ridreb05/main/assets/room.gif" width="100%" />
-    
+
+</td>
+<td width="50%" align="center">
+
 # Debanik Das
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=520&height=45&lines=CS+Student+%26+Full-Stack+Developer;Web3+%7C+Crypto+%7C+Blockchain;AI%2FML+Explorer;Building+Things+That+Solve+Real+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=380&height=90&lines=CS+Student+%26+Full-Stack+Developer;Web3+%7C+Crypto+%7C+Blockchain;AI%2FML+Explorer;Building+Things+That+Solve+Real+Problems" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ## About Me
 
