@@ -1,16 +1,13 @@
 <table>
 <tr>
 <td width="50%" align="center">
-
 <img src="https://raw.githubusercontent.com/Ridreb05/Ridreb05/main/assets/room.gif" width="100%" />
-
 </td>
 <td width="50%" align="center">
 
 # Debanik Das
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=380&height=90&lines=Full-Stack+Developer;AI%2FML+%7C+Data;Web3+%7C+Crypto+%7C+Blockchain;Game+Dev" />
-
 </td>
 </tr>
 </table>
@@ -19,9 +16,7 @@
 
 Hey 👋 I'm a software developer. I've built full-stack apps and worked with AI/ML, and lately I'm working in Web3, crypto, and blockchain — building decentralized tools.
 
-
 **Currently:**
-
 - Building at [@indiminds-tech](https://github.com/indiminds-tech)
 - Exploring decentralized apps, on-chain governance, and DeFi
 - Working with ML and AI agents
@@ -54,18 +49,18 @@ const debanik = {
 ## GitHub Stats
 
 <div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ridreb05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A371F7&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridreb05&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9" />
+</div>
 
+<div align="center">
 <img height="165" src="https://streak-stats.demolab.com/?user=Ridreb05&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=A371F7&currStreakLabel=A371F7&sideNums=58A6FF&sideLabels=C9D1D9&dates=8B949E" />&nbsp;&nbsp;
-
-
 </div>
 
 ## Connect
 
 <div align="left">
-
 <a href="https://debanik.com"><img src="https://skillicons.dev/icons?i=devto" width="48" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/debanik-das"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>&nbsp;&nbsp;
 <a href="mailto:debanik005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
-
 </div>
