@@ -49,11 +49,6 @@ const debanik = {
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ridreb05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A371F7&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridreb05&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9" />
-</div>
-
-<div align="center">
 <img height="165" src="https://streak-stats.demolab.com/?user=Ridreb05&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=A371F7&currStreakLabel=A371F7&sideNums=58A6FF&sideLabels=C9D1D9&dates=8B949E" />&nbsp;&nbsp;
 </div>
 
