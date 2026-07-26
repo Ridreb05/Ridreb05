@@ -25,7 +25,7 @@ Hey 👋 I'm a software developer. I've built full-stack apps and worked with AI
 - Building at [@indiminds-tech](https://github.com/indiminds-tech)
 - Exploring decentralized apps, on-chain governance, and DeFi
 - Working with ML and AI agents
-- Sharing what I learn along the way
+- Sharing what I learn along the way.
 
 ## Tech Stack
 
