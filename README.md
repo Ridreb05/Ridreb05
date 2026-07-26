@@ -17,28 +17,27 @@
 
 ## About Me
 
-Hey 👋 I'm a CS student and developer. I've built full-stack apps and experimented with AI/ML, and lately I'm deep into Web3, crypto, and blockchain — building decentralized tools that put trust and ownership back in users' hands.
+Hey 👋 I'm a software developer. I've built full-stack apps and worked with AI/ML, and lately I'm working in Web3, crypto, and blockchain — building decentralized tools.
 
-I care about shipping things that actually work and feel considered, from the smart contract up to the interface.
 
 **Currently:**
 
 - Building at [@indiminds-tech](https://github.com/indiminds-tech)
 - Exploring decentralized apps, on-chain governance, and DeFi
-- Experimenting with RL and AI agents
+- Working with ML and AI agents
 - Sharing what I learn along the way
 
 ## Tech Stack
 
 ```js
 const debanik = {
-    role: "CS Student & Full-Stack Developer",
-    languages: ["TypeScript", "JavaScript", "Python", "Solidity"],
+    role: "Software Developer",
+    languages: ["TypeScript", "Java", "Python", "C#"],
     frontend: ["React", "Next.js"],
     backend: {
         runtime: ["Node.js"],
         web3: ["Solidity", "Hardhat", "ethers.js"],
-        databases: ["MongoDB", "PostgreSQL", "Supabase"],
+        databases: ["MongoDB", "MSSQL", "Supabase"],
     },
     exploring: ["AI/ML", "Reinforcement Learning", "DeFi"],
     currentFocus: "Web3, crypto & blockchain",
