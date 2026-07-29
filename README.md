@@ -7,7 +7,7 @@
 
 # Debanik Das
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=380&height=90&lines=Full-Stack+Developer;AI%2FML+%7C+Data;Web3+%7C+Crypto+%7C+Blockchain;Game+Dev" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=380&height=90&lines=Full-Stack+Dev;AI%2FML+%7C+Data;Web3+%7C+Crypto+%7C+Blockchain;Game+Dev" />
 </td>
 </tr>
 </table>
