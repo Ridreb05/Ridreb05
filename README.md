@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hey 👋 I'm a software developer. I've built full-stack apps and worked with AI/ML, and lately I'm learnig Web3, crypto, and blockchain.
+Hey 👋 I'm a software developer. I've built full-stack apps and worked with AI/ML, and lately I'm learning Web3, crypto, and blockchain.
 
 **Currently:**
 - Building at [@indiminds-tech](https://github.com/indiminds-tech)
